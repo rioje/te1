@@ -7,7 +7,8 @@ import * as Tone from 'tone';
 import Keyboard from './components/Keyboard';
 import DynamicVisualizer from './components/DynamicVisualizer';
 import AudioVisualizer from './components/AudioVisualizer';
-import './App.css';
+import
+'./App.css';
 
 const TRANSACTIONS = [
     { name: "Hemi", color: "green", note: "C4", soundType: "C Major" },
