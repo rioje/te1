@@ -4,7 +4,7 @@ write song
 
 
 import React, { useState, useEffect, useRef, useCallback } from 'react';
-import * as Tone from 'tone';
+impor * as Tone from 'tone';
 import Keyboard from './components/Keyboard';
 import DynamicVisualizer from './components/DynamicVisualizer';
 import AudioVisualizer from './components/AudioVisualizer';
